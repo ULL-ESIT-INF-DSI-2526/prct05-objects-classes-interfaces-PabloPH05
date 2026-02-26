@@ -1,2 +1,46 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-ciDUVo2)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22878691)
+# Práctica 5 - Objetos, clases e interfaces
+
+**Asignatura:** Desarrollo de Sistemas Informáticos  
+**Alumno:** Pablo Pérez Hernández  
+**Correo:** [alu0101619002@ull.edu.es]
+
+## 📝 Descripción
+
+Resolución de los 3 ejercicios propuestos en la práctica 5, centrados en el uso de POO en TypeScript.
+
+## 🚀 Guía rápida de uso
+
+Este proyecto utiliza `npm` para la gestión de dependencias y ejecución de scripts.
+
+1. **Ejecutar el código (Monitorización):**
+```bash
+npm start
+
+```
+
+
+2. **Ejecutar los tests:**
+```bash
+npm test
+
+```
+
+
+3. **Generar documentación (TypeDoc):**
+```bash
+npm run docs
+
+```
+> La documentación se generará en la carpeta `docs/`.
+
+
+## 📂 Contenido
+
+El código fuente se encuentra en la carpeta `src/` e incluye:
+
+* **Ejercicios 1-3:** Soluciones individuales a los problemas planteados.
+
+Por otro lado, los ficheros de prueba se encuentran en la carpeta `test/`:
+
+* **Tests:** Cada ejercicio cuenta con su correspondiente fichero de pruebas (`.spec.ts`).
+
