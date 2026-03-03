@@ -26,6 +26,7 @@
   "homepage": "https://github.com/ULL-ESIT-INF-DSI-2526/prct05-objects-classes-interfaces-PabloPH05#readme",
   "devDependencies": {
     "@eslint/js": "^9.39.3",
+    "@types/node": "^25.3.3",
     "@vitest/coverage-v8": "^4.0.18",
     "eslint": "^9.39.3",
     "eslint-config-prettier": "^10.1.8",
