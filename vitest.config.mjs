@@ -12,7 +12,7 @@ export default defineConfig({
       include: ['src/**/*.ts'],
       // Excluimos archivos que no contienen lógica (como el index.ts raíz)
       exclude: ['src/index.ts', 'src/**/index.ts'],
-      reporter: ['text', 'html'],
+      reporter: ['text', 'lcov'],
       all: true, // Esto obliga a incluir archivos incluso si no tienen tests asociados
     },
   },
