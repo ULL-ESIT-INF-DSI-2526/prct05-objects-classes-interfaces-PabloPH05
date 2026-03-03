@@ -12,6 +12,8 @@ Resolución de los 3 ejercicios propuestos en la práctica 5, centrados en el us
 
 [![CI Tests](https://github.com/ULL-ESIT-INF-DSI-2526/prct05-objects-classes-interfaces-PabloPH05/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ULL-ESIT-INF-DSI-2526/prct05-objects-classes-interfaces-PabloPH05/actions/workflows/ci.yml)
 
+[![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2526/prct05-objects-classes-interfaces-PabloPH05/badge.svg?branch=main)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2526/prct05-objects-classes-interfaces-PabloPH05?branch=main)
+
 ## 🚀 Guía rápida de uso
 
 Este proyecto utiliza `npm` para la gestión de dependencias y ejecución de scripts.
