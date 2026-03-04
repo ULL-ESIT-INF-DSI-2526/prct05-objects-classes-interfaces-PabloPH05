@@ -4,3 +4,4 @@
 
 import './ejercicio-1/';
 import './ejercicio-2/';
+import './ejercicio-practica/'
